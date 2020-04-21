@@ -1,0 +1,6252 @@
+[
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__unidentified__s___HK555938.1.1357",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_fragilis__s___CDQP01001253.198.1702",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ455907.1.1457",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_moraviensis_ATCC_BAA383__s___AJAS01000002.402945.404493",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Veillonella_sp._HPA0037__s___ATCG01000005.96293.97843",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s____s___AY923125.1.1558",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Firmicutes_bacterium__s___EF071156.1.1495",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AJ576336.1.1454",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ809961.1.1389",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU768637.1.1351",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU772640.1.1279",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU778973.1.1417",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU939429.1.1490",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ897305.1.1474",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ782404.1.1455",
+   "details": "BHI",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__Streptomyces_sp._Q1__s___HE584614.1.1460",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__metagenome__s___FPID01000804.5.1437",
+   "details": "BHI",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ772917.1.1452",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ787815.1.1431",
+   "details": "BHI&FAB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__bacterium_NLAEzlC423__s___JQ608127.1.1418",
+   "details": "BHI&FAB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB559667.1.1517",
+   "details": "BHI&FAB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773893.1.1250",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU775110.1.1381",
+   "details": "BHI&FAB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU777698.1.1381",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF216820.1.1370",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ758525.1.1445",
+   "details": "BHI&FAB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ808802.1.1431",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Fusobacteria__g__s__Fusobacterium_ulcerans_121B__s___AGWJ02000001.31807.33302",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__uncultured_bacterium__s___EF179828.1.1502",
+   "details": "BHI&FAB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_dorei__s___CP009057.2296841.2298384",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_vulgatus_PC510__s___ADKO01000087.185.1693",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___AM265447.1.1474",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___EU762749.1.1373",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KC245256.1.1460",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Catabacter_hongkongensis__s___LT223646.1.1499",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Christensenella_massiliensis__s___LT700187.3621.5136",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___HK694229.2.1512",
+   "details": "BHI&FAB&Original_stool",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905326.1.1567",
+   "details": "BHI&FAB&Original_stool&RCM&SAM",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_adolescentis_ATCC_15703__s___AP009256.1614924.1616459",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_choerinum_DSM_20434__s___AXVO01000009.222.1744",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_pseudocatenulatum_DSM_20438__JCM_1200__LMG_10505__s___JGZF01000005.1.1534",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___AB559621.1.1499",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_uniformis_CL03T12C37__s___AGXY01000011.2332.3846",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDYK01040934.16.1524",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF842063.1.1425",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ763151.1.1442",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__unidentified__s___HK695126.1.1341",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Fusicatenibacter_saccharivorans__s___CYYV01000001.321800.323312",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Megamonas_funiformis_YIT_11815__s___ADMB01000074.90.1632",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Ruminococcus_gnavus_CC55_001C__s___AZJF01000006.127126.128644",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__gut_metagenome__s___CDYJ01035375.5063.6592",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BABD01000680.619.2209",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__metagenome__s___AAQL01011552.755.2265",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB506127.1.1523",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB506138.1.1523",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905902.1.1526",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KP150938.1.1495",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___HK557136.3.1551",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__Escherichia_coli__s___CCPS01000022.154.1916",
+   "details": "BHI&FAB&Original_stool&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Eggerthella_lenta_DSM_2243__s___CP001726.749856.751352",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_ovatus_V975__s___LT622246.247875.249393",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Parabacteroides_sp._MC_17__s___LN907745.1.1539",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDTY01006121.13.1519",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__human_gut_metagenome__s___BABD01000482.1904.3411",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ905926.1.1529",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ905947.1.1583",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ780626.1.1451",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Bariatricus_massiliensis__s___FLKG01000008.748.2260",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_clostridioforme__s___CZAB01000004.3636.5162",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Ruminococcus_sp._A254.MGS108__s___LAQZ01000049.1994.3490",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__gut_metagenome__s___CDTY01055436.5943.7453",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__gut_metagenome__s___CEAG01045510.187.1726",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__gut_metagenome__s___CEAN01004557.3388.4897",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__metagenome__s___FPLO01002684.17.1566",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB506177.1.1524",
+   "details": "BHI&FAB&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ800323.1.1368",
+   "details": "BHI&FAB&Original_stool&SAM",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCB06__s___AY923124.1.1560",
+   "details": "BHI&FAB&Original_stool&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_dorei__s___CP009057.4969468.4971009",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_sp._HPS0048__s___AGEU01000082.2870.4380",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 2,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_thetaiotaomicron__s___CZAE01000003.99809.101321",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Parabacteroides_distasonis_CL03T12C09__s___AGZM01000019.163713.165225",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Parabacteroides_johnsonii_CL02T12C29__s___AGZP01000018.58956.60474",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__bacterium_NLAEzlG18__s___JX048104.1.1419",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDYN01017025.4056.5567",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDYZ01001807.21.1524",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ794809.1.1404",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ797005.1.1404",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ799548.1.1400",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ805699.1.1399",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ805826.1.1403",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___EU767875.1.1369",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ759566.1.1442",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Bittarella_massiliensis__s___FAUJ01000006.3367.4875",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_methoxybenzovorans_SR3__s___ATXD01000006.1289811.1291322",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_orbiscindens_1_3_50AFAA__s___ADLO01000142.506.2025",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Coprococcus_comes__s___CYZK01000040.552.2062",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Coprococcus_sp._HPP0074__s___AGEV01000008.384963.386481",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Erysipelotrichaceae_bacterium_21_3__s___ACTI01000029.29.1556",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Eubacterium_sp._CS1_Van__s___AJ518868.1.1382",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Ruthenibacterium_lactatiformans__s___LMUA01000058.4194.5725",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Trichuris_trichiura_human_whipworm__s___CBXK010002535.1192.2697",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__bacterium_NLAEzlG241__s___JX048233.1.1431",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Ruminococcus_sp.__s___EU530331.1.1488",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798382.1.1391",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801465.1.1398",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ809500.1.1392",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU939391.1.1539",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ759675.1.1437",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_rumen_bacterium__s___DQ673535.1.1495",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__gut_metagenome__s___CEAB01039785.95.1626",
+   "details": "BHI&FAB&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_intermedius_C270__s___CP003858.310071.311616",
+   "details": "BHI&FAB&RCM&SAM",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecalis__s___JUOP01000215.81.1657",
+   "details": "BHI&FAB&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_lactis__s___KF826027.1.1485",
+   "details": "BHI&FAB&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__swine_manure_bacterium_RT5A__s___AY167944.1.1499",
+   "details": "BHI&FAB&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium_OI1612__s___AF018036.1.1512",
+   "details": "BHI&FAB&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF103975.1.1369",
+   "details": "BHI&FAB&RCM&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_ovatus_V975__s___LT622246.2421265.2422782",
+   "details": "BHI&FAB&RCM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_anginosus_C238__s___CP003861.120555.122100",
+   "details": "BHI&FAB&SAM",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ806649.1.1415",
+   "details": "BHI&FAB&SAM",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_sp._3_2_5__s___ACIB02000015.660160.661676",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_gordonii__s___CP012648.1081176.1082737",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_mutans__s___KP975176.1.1487",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_oralis_subsp._oralis__s___FJ823151.1.1442",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_oralis_subsp._oralis__s___GU045381.1.1442",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_oralis_subsp._oralis__s___GU045383.1.1369",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_pneumoniae__s___CRKN01000054.4139.5702",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_pneumoniae__s___FJ823147.1.1444",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASB02__s___AY923121.1.1558",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCA03__s___DQ272504.1.1556",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCA04__s___AY923116.1.1557",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCA09__s___AY923119.1.1559",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCC01__s___DQ272506.1.1569",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCD01__s___AY923129.1.1554",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCD09__s___AY923130.1.1553",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCE01__s___AY923132.1.1549",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_taxon_G62__s___GU432146.1.1216",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__ironreducing_bacterium_enrichment_culture_clone_FeC_2_B8__s___FJ802340.1.1203",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Streptococcus_sp.__s___DQ016729.1.1530",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Streptococcus_sp.__s___EU705203.1.1303",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Streptococcus_sp.__s___FJ773366.1.1414",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF509615.1.1493",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU432160.1.1564",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ557971.1.1395",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ557974.1.1421",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ983094.1.1542",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HE681318.1.1546",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HM250510.1.1367",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HM778151.1.1525",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HM778153.1.1541",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HM778154.1.1538",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HM778159.1.1531",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF071738.1.1369",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF140912.1.1357",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF151401.1.1370",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF219022.1.1324",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF221279.1.1377",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF233796.1.1367",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF240722.1.1379",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ448404.1.1411",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ448647.1.1430",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ448711.1.1414",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ448721.1.1405",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449672.1.1409",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449852.1.1397",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449854.1.1418",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449878.1.1390",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449897.1.1359",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449900.1.1414",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ449922.1.1409",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ450013.1.1427",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ453381.1.1414",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ453401.1.1331",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ453840.1.1400",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ455272.1.1412",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ455366.1.1371",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ455390.1.1418",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ455883.1.1430",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ457812.1.1407",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ457886.1.1399",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ457927.1.1407",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ460640.1.1417",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ460707.1.1415",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ460757.1.1415",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ460822.1.1417",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ460853.1.1412",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ462368.1.1423",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ463830.1.1415",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ468428.1.1407",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ471202.1.1408",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ475634.1.1413",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF070992.1.1370",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF098329.1.1368",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF098391.1.1368",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF098395.1.1368",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF098517.1.1373",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF843573.1.1375",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ801197.1.1466",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ803583.1.1449",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ804699.1.1455",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ805158.1.1469",
+   "details": "BHI&FAB&SAM&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Raoultibacter_massiliensis__s___LT576395.1.1472",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__bacterium_NLAEzlG339__s___JX048331.1.1329",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ764956.1.1452",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ775408.1.1449",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ810970.1.1441",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridiales_bacterium_VE20201__s___BAHP02000171.687.2191",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_sp._AL0813__s___FM865920.1.1406",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_sp._H23__s___FM865923.1.1424",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_symbiosum_WAL14673__s___ADLR01000157.173.1691",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Dielma_fastidiosa__s___CAEN01000062.3382.4895",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Hungatella_hathewayi_12489931__s___AGYU01000014.10038.11557",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU009861.1.1454",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773764.1.1367",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773789.1.1287",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773828.1.1373",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773866.1.1374",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ761492.1.1450",
+   "details": "BHI&FAB&TSB",
+   "BHI": 3,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ766669.1.1417",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ812905.1.1457",
+   "details": "BHI&FAB&TSB",
+   "BHI": 2,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___KF843080.1.1373",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Alistipes_indistinctus_YIT_12060__s___ADLD01000012.328.1844",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Faecalibacterium_prausnitzii__s___CZBH01000001.999036.1000544",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___AM265445.1.1462",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___JX457157.1.1486",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF842661.1.1390",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Butyricicoccus_sp._N15.MGS46__s___LWLI01000001.299563.301073",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridiales_bacterium_VE20209__s___BAHW02000064.49.1563",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Eubacterium_sp._SB2__s___CVTZ01000011.472188.473700",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__bacterium_LF3__s___LK021123.1.1724",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__gut_metagenome__s___CDZV01001328.3274.4784",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798052.1.1394",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799899.1.1390",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801474.1.1392",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805036.1.1385",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ809702.1.1364",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ809868.1.1377",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905741.1.1519",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF025278.1.1459",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ871714.1.1480",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ248104.1.1509",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF842617.1.1434",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ778821.1.1452",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ780972.1.1456",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ807897.1.1449",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ815003.1.1441",
+   "details": "BHI&Original_stool",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__gut_metagenome__s___CDYJ01026408.72.1593",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__gut_metagenome__s___CEAC01010956.3592.5108",
+   "details": "BHI&Original_stool",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_sp._MC_8__s___LN907736.1.1566",
+   "details": "BHI&Original_stool&RCM",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__human_gut_metagenome__s___BAAX01003885.346.1854",
+   "details": "BHI&Original_stool&RCM",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___AJWY01001902.613.2139",
+   "details": "BHI&Original_stool&RCM",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Clostridium_sp.__s___FMGE01000022.620.2130",
+   "details": "BHI&Original_stool&RCM",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Firmicutes_bacterium__s___EF071396.1.1511",
+   "details": "BHI&Original_stool&RCM",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_breve__s___BCXQ01000007.125.1636",
+   "details": "BHI&Original_stool&RCM&SAM",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ795398.1.1392",
+   "details": "BHI&Original_stool&RCM&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_thermophilus_TH1435__s___AYSG01000002.292.2076",
+   "details": "BHI&Original_stool&SAM",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium_A57__s___AF052422.1.1493",
+   "details": "BHI&Original_stool&SAM&TSB",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDZT01028615.319923.321431",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ801774.1.1401",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___EF097233.1.1407",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF842656.1.1397",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ759757.1.1433",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridiales_bacterium_VE20215__s___BAIC02000310.62.1571",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_sp._MarseilleP2538__s___FLKL01000002.119263.120775",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Dorea_formicigenerans_ATCC_27755__s___AAXA02000014.354465.355983",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Massiliomicrobiota_timonensis__s___LN998062.1.1487",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Butyricicoccus_sp.__s___FMGF01000006.87362.88869",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB506207.1.1496",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB506222.1.1514",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ248090.1.1515",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ814200.1.1445",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___HK693790.2.1477",
+   "details": "BHI&Original_stool&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecalis__s___EF120452.1.1485",
+   "details": "BHI&RCM",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecium__s___JX847619.1.1461",
+   "details": "BHI&RCM",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_gallinarum__s___JQ805719.1.1575",
+   "details": "BHI&RCM",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU778438.1.1420",
+   "details": "BHI&RCM",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecalis__s___JN628990.1.1569",
+   "details": "BHI&RCM&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecalis__s___KX960105.1.1558",
+   "details": "BHI&RCM&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecium__s___HG798419.1.1400",
+   "details": "BHI&RCM&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_sp._462__s___KC819131.1.1492",
+   "details": "BHI&RCM&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_lactis__s___KJ459011.1.1551",
+   "details": "BHI&SAM",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 2,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF140904.1.1363",
+   "details": "BHI&SAM",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF149401.1.1365",
+   "details": "BHI&SAM",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF082952.1.1365",
+   "details": "BHI&SAM",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF098401.1.1367",
+   "details": "BHI&SAM",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ460975.1.1415",
+   "details": "BHI&SAM&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ467840.1.1394",
+   "details": "BHI&SAM&TSB",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF106742.1.1367",
+   "details": "BHI&SAM&TSB",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Intestinimonas_butyriciproducens__s___JPJD01000056.3683.5194",
+   "details": "BHI&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ456166.1.1450",
+   "details": "BHI&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ796712.1.1386",
+   "details": "BHI&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799171.1.1319",
+   "details": "BHI&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808345.1.1395",
+   "details": "BHI&TSB",
+   "BHI": 3,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ824452.1.1393",
+   "details": "BHI&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ133907.1.1390",
+   "details": "BHI&TSB",
+   "BHI": 2,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ871722.1.1492",
+   "details": "BHI&TSB",
+   "BHI": 3,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF842077.1.1409",
+   "details": "BHI&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ769259.1.1444",
+   "details": "BHI&TSB",
+   "BHI": 2,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Bacteroides_caecimuris__s___CP015401.3482423.3483958",
+   "details": "FAB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ534957.1.1501",
+   "details": "FAB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__Escherichia_coli__s___LXJC02000002.380080.381570",
+   "details": "FAB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__uncultured_bacterium__s___HQ883931.1.1537",
+   "details": "FAB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s__uncultured_bacterium__s___JQ283151.1.1376",
+   "details": "FAB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ456246.1.1451",
+   "details": "FAB&Original_stool",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ799102.1.1402",
+   "details": "FAB&Original_stool",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF843322.1.1414",
+   "details": "FAB&Original_stool",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ761995.1.1434",
+   "details": "FAB&Original_stool",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Eubacterium_sp._15__s___KR185326.1.1423",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BABG01001469.752.2264",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AF349429.1.1481",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AM276759.1.1484",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ795442.1.1390",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ825207.1.1396",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF401937.1.1494",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 3,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ797337.1.1451",
+   "details": "FAB&Original_stool",
+   "BHI": 0,
+   "FAB": 3,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ802871.1.1436",
+   "details": "FAB&Original_stool",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB506357.1.1508",
+   "details": "FAB&Original_stool&SAM&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ807639.1.1371",
+   "details": "FAB&Original_stool&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ825172.1.1388",
+   "details": "FAB&Original_stool&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808105.1.1390",
+   "details": "FAB&Original_stool&TSB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU777728.1.1360",
+   "details": "FAB&RCM",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_sp._NB7__s___EU828356.1.1308",
+   "details": "FAB&RCM&SAM",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ360007.1.1452",
+   "details": "FAB&RCM&SAM&TSB",
+   "BHI": 0,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF405184.1.1522",
+   "details": "FAB&RCM&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_baratii_str._Sullivan__s___CP006905.1192060.1193564",
+   "details": "FAB&SAM",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ453191.1.1418",
+   "details": "FAB&SAM",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_pneumoniae__s___MQRW01000077.28123.29678",
+   "details": "FAB&SAM&TSB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Streptococcus_sp.__s___JX548436.1.1511",
+   "details": "FAB&SAM&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF202870.1.1368",
+   "details": "FAB&SAM&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ463893.1.1409",
+   "details": "FAB&SAM&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ811832.1.1472",
+   "details": "FAB&SAM&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Eggerthella_timonensis__s___LT598568.1.1472",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ809139.1.1302",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Blautia_sp._YL58__s___CP015405.196247.197788",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_tarantellae__s___FR733677.1.1497",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Clostridium_sp.__s___JN792358.1.1395",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798666.1.1390",
+   "details": "FAB&TSB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805448.1.1403",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808443.1.1380",
+   "details": "FAB&TSB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF399215.1.1495",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU771984.1.1391",
+   "details": "FAB&TSB",
+   "BHI": 0,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773795.1.1375",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 2,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JQ466210.1.1413",
+   "details": "FAB&TSB",
+   "BHI": 1,
+   "FAB": 3,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Actinomyces_gerencseriae_DSM_6844__s___AUBN01000027.224.1776",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ353916.1.1469",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ798456.1.1292",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ803189.1.1367",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ808158.1.1394",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__unidentified__s___HK555959.1.1489",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Coprobacter_fastidiosus_NSB1__s___AWWG01000020.296.1831",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s____s___HQ780849.1.1451",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__bacterium_NLAEzlG202__s___JX048287.1.1404",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDTY01027388.3437.4940",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__gut_metagenome__s___CDYK01002920.30390.31900",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__human_gut_metagenome__s___BABD01000001.4971.6478",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ798125.1.1397",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ799295.1.1402",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___DQ805722.1.1399",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___EF403711.1.1488",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___EU772840.1.1272",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___EU778928.1.1310",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___GQ448372.1.1396",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF842085.1.1462",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF842370.1.1420",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ776945.1.1453",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ778922.1.1460",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ790343.1.1432",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ792996.1.1460",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ796771.1.1420",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Anaerostipes_hadrus__s___CYZM01000020.534.2044",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridia_bacterium_UC5.11E11__s___BCAA01000057.220.1714",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridioides_difficile__s___JFOF01000052.9721.11268",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_phoceensis__s___CVUG01000013.3917.5427",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_sp._cTPY17__s___AY239462.1.1500",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Dorea_longicatena__s___CZAC01000092.963.2475",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Holdemania_massiliensis_AP2__s___CALK01000057.3384.4901",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lachnoclostridium_phocaeense__s___LT635479.2018833.2020346",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Negativibacillus_massiliensis__s___FTRU01000003.3359.4854",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Peptostreptococcaceae_bacterium_VA2__s___JMMB01000008.9370.10857",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Ruminococcus_sp._CE2__s___AY960567.1.1475",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Ruminococcus_torques_ATCC_27756__s___AAVP02000025.9720.11231",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_thermophilus_M17PTZA496__s___AZJT01000071.1165.2796",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Turicibacter_sp._H121__s___CP013476.575138.576663",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Weissella_koreensis_KACC_15510__s___CP002899.1168231.1169821",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__gut_metagenome__s___CDZS01010489.3672.5182",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BAAU01004492.9.1451",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BAAZ01000004.3228.4721",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BAAZ01001521.295.1804",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BABA01013952.1.1506",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__human_gut_metagenome__s___BABD01000485.1167.2678",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__metagenome__s___FPLO01004263.15.1513",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__metagenome__s___FPLO01005776.11.1519",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__metagenome__s___FPLO01006936.16.1525",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Clostridium_sp.__s___FMDQ01000023.593.2103",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Eubacterium_sp.__s___FMDZ01000001.16887.18386",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Roseburia_sp.__s___FMEB01000008.156586.158100",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Ruminococcaceae_bacterium__s___JX645558.1.1486",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Ruminococcus_sp.__s___FMFL01000027.72847.74341",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB559597.1.1506",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB626918.1.1493",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB821664.1.1520",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB821837.1.1523",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB824492.1.1541",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AJ408961.1.1478",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AM276768.1.1470",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ238615.1.1524",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ353919.1.1478",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ777927.1.1463",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ793378.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794041.1.1395",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794160.1.1340",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794408.1.1381",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794420.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794591.1.1393",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794712.1.1388",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794954.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794965.1.1292",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ795045.1.1393",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ795213.1.1394",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ795526.1.1391",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ795618.1.1395",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ796136.1.1225",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ796627.1.1383",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ796777.1.1384",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ796929.1.1385",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ797623.1.1293",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798364.1.1386",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798613.1.1389",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798823.1.1382",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798826.1.1408",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798848.1.1383",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799126.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799165.1.1389",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799321.1.1327",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799393.1.1378",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799395.1.1387",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799508.1.1380",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799755.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799771.1.1395",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799804.1.1388",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799831.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799844.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ799943.1.1381",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ800600.1.1286",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ800791.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801256.1.1379",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801413.1.1390",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801766.1.1394",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801879.1.1378",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ802054.1.1395",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ802266.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ803974.1.1393",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ804505.1.1388",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ804508.1.1387",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ804545.1.1394",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ804648.1.1380",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ804787.1.1394",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ804873.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805162.1.1397",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805175.1.1389",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805615.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805670.1.1391",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805774.1.1388",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ806093.1.1400",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ806646.1.1374",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807034.1.1355",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807124.1.1290",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807235.1.1291",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807421.1.1385",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807640.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807676.1.1389",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807708.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807766.1.1353",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ807998.1.1393",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808063.1.1392",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808087.1.1394",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808107.1.1362",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808197.1.1391",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808264.1.1391",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808326.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808427.1.1393",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808474.1.1388",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808510.1.1374",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ809662.1.1394",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ823758.1.1395",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ824169.1.1386",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ824170.1.1384",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ824341.1.1289",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ824471.1.1393",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ824510.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ825287.1.1395",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ904718.1.1469",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905369.1.1577",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905410.1.1551",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905755.1.1518",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905762.1.1498",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF025258.1.1286",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF400494.1.1487",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF400772.1.1485",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF403280.1.1489",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF403473.1.1481",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU358682.1.1483",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU358695.1.1474",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU466811.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU467095.1.1320",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU469505.1.1391",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU506393.1.1398",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU762211.1.1340",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU771581.1.1382",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU771748.1.1381",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU771791.1.1379",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773433.1.1390",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773899.1.1392",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU776245.1.1402",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU778980.1.1390",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ365318.1.1388",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ365331.1.1345",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ365961.1.1347",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ367441.1.1327",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ367473.1.1360",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ367589.1.1362",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ370125.1.1406",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ685248.1.1437",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___FJ880389.1.1491",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ360001.1.1466",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ492655.1.1380",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ898120.1.1489",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___GQ898419.1.1489",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HE681258.1.1546",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___HQ176293.1.1492",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JF231591.1.1330",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JX198565.1.1505",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KC245377.1.1468",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF095037.1.1343",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF842906.1.1397",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF842960.1.1375",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___LC028645.1.1525",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ767690.1.1450",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ769712.1.1454",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ772829.1.1449",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ772908.1.1448",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ778730.1.1428",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ779084.1.1444",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ779202.1.1454",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ795452.1.1460",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ796501.1.1449",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ801120.1.1440",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ814833.1.1443",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ815209.1.1454",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___DD159265.1.1496",
+   "details": "Original_stool",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___DD159266.1.1509",
+   "details": "Original_stool",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_longum_subsp._longum__s___JN020355.1.1242",
+   "details": "Original_stool&RCM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_reuteri_DSM_23975__s___JGZK01000013.74317.75831",
+   "details": "Original_stool&RCM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___AM404803.1.1432",
+   "details": "Original_stool&RCM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___DQ795249.1.1351",
+   "details": "Original_stool&RCM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___EU767274.1.1360",
+   "details": "Original_stool&RCM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium_human_infant_L14E__s___AF253371.1.1414",
+   "details": "Original_stool&RCM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_bacterium__s___KF842645.1.1410",
+   "details": "Original_stool&RCM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ905930.1.1794",
+   "details": "Original_stool&RCM",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___FJ366680.1.1377",
+   "details": "Original_stool&RCM&SAM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_pentosus__s___EU306161.1.1692",
+   "details": "Original_stool&RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 2,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_moukalabense_DSM_27321__s___AZMV01000002.253299.254820",
+   "details": "Original_stool&RCM&TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___EU767638.1.1359",
+   "details": "Original_stool&RCM&TSB",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__uncultured_bacterium__s___JQ187021.1.1359",
+   "details": "Original_stool&RCM&TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB969380.1.1523",
+   "details": "Original_stool&RCM&TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794475.1.1392",
+   "details": "Original_stool&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Proteobacteria__g__s____s___MNTU01000015.14.1361",
+   "details": "Original_stool&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 1,
+   "SAM": 2,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Alistipes_timonensis_JC136__s___CAEG01000022.14.1521",
+   "details": "Original_stool&TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_Clostridium_sp.__s___FMER01000018.41984.43499",
+   "details": "Original_stool&TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ793824.1.1370",
+   "details": "Original_stool&TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF404814.1.1488",
+   "details": "Original_stool&TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_organism__s___HQ807967.1.1450",
+   "details": "Original_stool&TSB",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___HK693415.9.1507",
+   "details": "Original_stool&TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__unidentified__s___HK693827.8.1518",
+   "details": "Original_stool&TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 3,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_longum_subsp._longum__s___CP011964.2253997.2255516",
+   "details": "RCM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_pseudolongum_PV82__s___CP007457.1550473.1552017",
+   "details": "RCM",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_faecium__s___KM257656.1.1510",
+   "details": "RCM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Enterococcus_hirae__s___LC027237.1.1541",
+   "details": "RCM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Granulicatella_sp._oral_clone_ASCG05__s___AY923146.1.1555",
+   "details": "RCM",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_sp._N152__s___AB379908.1.1520",
+   "details": "RCM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 1,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU775680.1.1416",
+   "details": "RCM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 0,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_brantae_DSM_23927__s___AYZQ01000010.78.1630",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_casei__s___KU324899.1.1276",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_fermentum__s___AB362767.1.1576",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_fermentum__s___EU287483.1.1827",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_fermentum__s___KR604711.1.1438",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_fermentum__s___KU315056.1.1512",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_hokkaidonensis__s___AP014680.1445965.1447537",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_paracasei__s___AB362692.1.1566",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_paracasei__s___AY773954.1.1486",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_sharpeae_JCM_1186__DSM_20505__s___BBAC01000054.139.1693",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_sp._N49__s___AB379914.1.1553",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Pediococcus_claussenii_ATCC_BAA344__s___CP003137.282005.283571",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Pediococcus_damnosus__s___LTEA01000220.20474.22082",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Pediococcus_pentosaceus__s___M58834.1.1582",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Romboutsia_sp._G12__s___EU089965.1.1471",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__bacterium_CCSD_DF2030_Ag37_isolate_1__s___AY820245.1.1274",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___AB559728.1.1569",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___JN698639.1.1397",
+   "details": "RCM&SAM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 2,
+   "SAM": 2,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_oligofermentans_DSM_15707__LMG_22743__s___LN898144.1541292.1542861",
+   "details": "RCM&SAM&TSB",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 3,
+   "SAM": 3,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Actinobacteria__g__s__Bifidobacterium_tsurumiense__s___JGZU01000004.113613.115147",
+   "details": "RCM&TSB",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 3,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Clostridium_sartagoforme_AAU1__s___ASRV01000251.33.1558",
+   "details": "SAM",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_colini__s___KU161106.1.1565",
+   "details": "SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Lactobacillus_senioris_DSM_24302__JCM_17472__s___BBCR01000020.149.1716",
+   "details": "SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Paraclostridium_bifermentans__s___LC062384.1.1414",
+   "details": "SAM",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 2,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ816808.1.1426",
+   "details": "SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 2,
+   "TSB": 1
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU453500.1.1435",
+   "details": "SAM",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 3,
+   "TSB": 0
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__Parabacteroides_distasonis__s___AB117561.1.1493",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Bacteroidetes__g__s__uncultured_organism__s___HQ794984.1.1445",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__Streptococcus_sp._oral_clone_ASCE04__s___AY953253.1.1556",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ794610.1.1387",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ798256.1.1391",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ801818.1.1392",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ805757.1.1393",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ806139.1.1390",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808267.1.1288",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ808302.1.1387",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 3
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___DQ809492.1.1291",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EF403878.1.1495",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU358721.1.1498",
+   "details": "TSB",
+   "BHI": 0,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU462919.1.1400",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 1,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU463378.1.1375",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 0,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU772645.1.1360",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 1,
+   "SAM": 1,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU772698.1.1314",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___EU773966.1.1375",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 0,
+   "TSB": 2
+ },
+ {
+   "Taxonomy": "p__Firmicutes__g__s__uncultured_bacterium__s___KF066527.1.1361",
+   "details": "TSB",
+   "BHI": 1,
+   "FAB": 1,
+   "Original_stool": 0,
+   "RCM": 0,
+   "SAM": 1,
+   "TSB": 2
+ }
+]
